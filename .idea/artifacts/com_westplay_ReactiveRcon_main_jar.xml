@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="com.westplay.ReactiveRcon_main:jar">
+    <output-path>$USER_HOME$/git/RconConnection/app/libs</output-path>
+    <root id="archive" name="com.westplay.ReactiveRcon_main.jar">
+      <element id="module-output" name="com.westplay.ReactiveRcon_main" />
+    </root>
+  </artifact>
+</component>
